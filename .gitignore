@@ -2,3 +2,8 @@ index.html
 assets/
 run_server.sh
 out
+.env
+server
+internal/
+sql/
+sqlc.yaml
